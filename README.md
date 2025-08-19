@@ -1,16 +1,15 @@
 <!-- Profile README for Deepika Sisodia -->
 
 <h1 align="center">Hi 👋, I'm Deepika Sisodia</h1>
-<h3 align="center">🎓 3rd Year B.Tech CSE Student | 💻 Aspiring Full Stack Developer</h3>
+<h3 align="center">💻 Aspiring Full Stack Developer | 🎓 3rd Year CSE Student | 🚀 Lifelong Learner</h3>
 
 ---
 
-🌟 I'm a passionate and curious Computer Science undergrad with hands-on experience in:
-
-- 💻 **Programming:** Python, Java  
-- 🌐 **Web Development:** HTML, CSS, JavaScript  
-- 🔁 **Version Control:** Git & GitHub  
-- 📈 **Always Learning:** Web Projects, DSA, Git, and more!
+### 🌟 About Me
+- 🎓 I'm a **Computer Science undergrad** passionate about **building and problem-solving**.  
+- 💻 Currently learning **Full Stack Web Development (MERN)** & sharpening my **DSA** skills.  
+- 📊 Interested in **Data Analysis** & **UI/UX Designing**.  
+- 🌱 I believe in *learning by building* → I’m always working on projects.  
 
 ---
 
@@ -21,17 +20,34 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📫 Connect with Me
-
-- 💌 Email: `sisodiadeepika28@gmail.com`
-- 🌐 Portfolio: *Coming soon — currently building with HTML, CSS, and JS!*
-- 💬 Always open to collaboration and learning!
+### 📌 Featured Projects
+🔹 [E-Commerce Website](https://github.com/yourusername/E-Commerce) – *Full Stack MERN app (in progress)*  
+🔹 [Portfolio Website](https://github.com/yourusername/Portfolio) – *Personal portfolio (coming soon)*  
+🔹 [DSA Practice](https://github.com/yourusername/DSA-Practice) – *Problem-solving with Java & Python*  
 
 ---
 
-_Thanks for visiting my profile! Feel free to check out my repositories and projects._ ✨
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Deepika's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+- 💌 Email: **sisodiadeepika28@gmail.com**  
+- 🌐 Portfolio: *Coming soon — currently building with HTML, CSS, and JS!*  
+- 💬 Let’s collaborate and learn together!  
+
+---
+
+✨ *Thanks for visiting my profile — feel free to explore my repositories and drop a star ⭐ if you like my work!*  
