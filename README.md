@@ -29,16 +29,22 @@
 ---
 
 ### 📌 Featured Projects
-🔹 [E-Commerce Website](https://github.com/yourusername/E-Commerce) – *Full Stack MERN app (in progress)*  
-🔹 [Portfolio Website](https://github.com/yourusername/Portfolio) – *Personal portfolio (coming soon)*  
-🔹 [DSA Practice](https://github.com/yourusername/DSA-Practice) – *Problem-solving with Java & Python*  
+🔹 [E-Commerce Website](https://github.com/Deepika-Sisodia/E-Commerce) – *Full Stack MERN app (in progress)*  
+🔹 [Portfolio Website](https://github.com/Deepika-Sisodia/Portfolio) – *Personal portfolio (coming soon)*  
+🔹 [DSA Practice](https://github.com/Deepika-Sisodia/DSA-Practice) – *Problem-solving with Java & Python*  
+
+> ✏️ Replace the repo links above if your repository names differ.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Deepika's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepika-Sisodia&show_icons=true&theme=tokyonight" alt="Deepika's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika-Sisodia&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika-Sisodia&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
@@ -46,8 +52,8 @@
 ### 📫 Connect with Me
 - 💌 Email: **sisodiadeepika28@gmail.com**  
 - 🌐 Portfolio: *Coming soon — currently building with HTML, CSS, and JS!*  
-- 💬 Let’s collaborate and learn together!  
+- 💬 Let’s collaborate and learn together!
 
 ---
 
-✨ *Thanks for visiting my profile — feel free to explore my repositories and drop a star ⭐ if you like my work!*  
+✨ *Thanks for visiting my profile — feel free to explore my repositories and drop a star ⭐ if you like my work!*
